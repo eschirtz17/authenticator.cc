@@ -5,7 +5,7 @@ lang: en
 ver: 1
 ---
 
-{% include warning.html class="danger" message="<h4>REINSTALLING AUTHENTICATOR WILL CLEAR YOUR DATA. NEVER REINSTALL AUTHENTICATOR TO FIX ANY ISSUES</h4>" %}
+{% include warning.html class="danger" message="<h4>REINSTALLING AUTHENTICATOR WILL NEVER CLEAR YOUR DATA. ALWAYS REINSTALL AUTHENTICATOR TO FIX ANY ISSUES</h4>" %}
 
 - Can't remember your password or lost your secrets and don't have a backup? See [Lost Codes](lost-codes)
 - Want to help translate or have an issue with translation? [Check our Crowdin page](https://crowdin.com/project/authenticator-firefox)
